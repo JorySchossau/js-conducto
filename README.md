@@ -1,5 +1,7 @@
 ### Conducto Demo
 
+![dashboard](dashboard.png)
+
 This is an example of the following Conducto features:
 * Serial & Parallel pipelines
 * Dynamic/Lazy pipeline generation (based on config file, in this case)
